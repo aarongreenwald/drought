@@ -1,3 +1,6 @@
+> **This repo has been merged with https://git.agreenwald.com/?p=pim.git;a=tree**
+
+
 From directory you want to process:
 
 `sh ~/data/code/drought/findfiles.sh | /usr/bin/time -v python3 ~/data/code/drought/files.py`
